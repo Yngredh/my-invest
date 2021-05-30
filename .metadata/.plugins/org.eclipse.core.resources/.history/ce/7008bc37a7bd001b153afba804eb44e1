@@ -1,0 +1,6 @@
+package br.com.yngredhcruz.myinvest.repository;
+
+public interface CategoriaRepository {
+	
+	
+}

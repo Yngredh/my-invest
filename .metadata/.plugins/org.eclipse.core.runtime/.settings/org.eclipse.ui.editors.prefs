@@ -1,0 +1,13 @@
+AbstractTextEditor.Color.Background=31,31,39
+AbstractTextEditor.Color.Foreground=207,191,173
+AbstractTextEditor.Color.SelectionBackground=139,139,255
+AbstractTextEditor.Color.SelectionForeground=64,64,64
+PHPReadOccurrenceIndicationColor=97,97,97
+STS4BootMarkerIndicationColor=56,84,26
+currentLineColor=45,45,68
+eclipse.preferences.version=1
+javaScriptOccurrenceIndicationColor=97,97,97
+lineNumberColor=43,145,175
+occurrenceIndicationColor=97,97,97
+printMarginColor=43,145,175
+spellingEnabled=false
